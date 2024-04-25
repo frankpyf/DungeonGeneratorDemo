@@ -4,9 +4,7 @@
 ## Build Status
 | Platform | Status   |
 | -------- | -------- |
-| Windows  | [![build windows](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake_multi-platform.yml/badge.svg)](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake_multi-platform.yml) |
-| MacOS  | [![build macos](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake_multi-platform.yml/badge.svg)](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake_multi-platform.yml) |
-| Linux  | [![build linux](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake_multi-platform.yml/badge.svg)](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake_multi-platform.yml) |
+| Windows, Linux, macOS  | [![build](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/frankpyf/DungeonGeneratorDemo/actions/workflows/cmake-multi-platform.yml) |
 
 
 # Features
