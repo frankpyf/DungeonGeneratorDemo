@@ -1,0 +1,40 @@
+W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W 
+W                                                         W 
+W                                                         W 
+W                     W W W W W W W   W W W W W W W W     W 
+W                     W # # # # # W   W # # # # # # W     W 
+W                     W # # # # # W   W # # # # # # W     W 
+W                     W # # # # # D . W # # # # # # W     W 
+W                     W # # # # # W . W # # # # # # W     W 
+W     W W W W         W W W W W W W . W # # # # # # W     W 
+W     W # # W       . . . . . . . . . D # # # # # # W     W 
+W     W # # D . . . .                 W W W W W W W W     W 
+W     W W W W   . W W W W                                 W 
+W               . W # # W                                 W 
+W               . W # # W                                 W 
+W               . W W D W     W W W W W W                 W 
+W               . . . . . . . W # # # # W                 W 
+W               W W W W     . W # # # # W                 W 
+W               W # # W     . W # # # # W     W W W W W   W 
+W               W # # W     . W # # # # W     W # # # W   W 
+W               W # # W . . . D # # # # W     W # # # W   W 
+W               W # # W .     W W W W W W     W # # # W   W 
+W               W # # D . . . . . . . . . . . W # # # W   W 
+W               W W W W   W W W W . . . . . . D # # # W   W 
+W                         W # # W .           W # # # W   W 
+W                         W # # W .           W W W W W   W 
+W   W W W W               W # # D .                       W 
+W   W # # W . . . . . . . W # # W                         W 
+W   W # # D . W W W W W . D # # W                         W 
+W   W W W W . W # # # W   W W W W                         W 
+W           . W # # # W                                   W 
+W           . D # # # W                                   W 
+W   W W W W . W W W W W         W W W W W W W W           W 
+W   W # # W .                   W # # # # # # W           W 
+W   W # # D . . . . . . . . . . D # # # # # # W           W 
+W   W W W W                     W W W W W W W W           W 
+W                                                         W 
+W                                                         W 
+W                                                         W 
+W                                                         W 
+W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W 
